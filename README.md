@@ -6,6 +6,6 @@
 | --------------------- | ------------------------------------- |
 | :sparkles: Nome       | **Event KeyCodes**          |
 | :label: Tecnologias   | html, css, javascript                 |
-| :rocket: URL          | https://?.netlify.app |
+| :rocket: URL          | https://keycodesevents.netlify.app |
 
 This application will display the event key, keycode, and code of a key when pressed. This can be helpful for developers or anyone interested in understanding how keyboard input works.
